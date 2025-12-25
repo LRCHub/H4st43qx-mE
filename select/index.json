@@ -1,0 +1,104 @@
+{
+  "version": 1,
+  "base_track": "FXCK UP THE WORLD",
+  "base_artist": "LISA",
+  "createdAt": "2025-12-25T05:49:16.133950Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "FXCK UP THE WORLD",
+      "artist": "LISA",
+      "has_synced": true,
+      "path": "select/01_FXCK_UP_THE_WORLD_LISA.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "FXCK UP THE WORLD",
+      "artist": "LISA",
+      "has_synced": true,
+      "path": "select/02_FXCK_UP_THE_WORLD_LISA.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "FXCK UP THE WORLD",
+      "artist": "LISA",
+      "has_synced": true,
+      "path": "select/03_FXCK_UP_THE_WORLD_LISA.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "FXCK UP THE WORLD (feat. Future)",
+      "artist": "LISA",
+      "has_synced": true,
+      "path": "select/04_FXCK_UP_THE_WORLD_(feat._Future)_LISA.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "FXCK UP THE WORLD (feat. Future)",
+      "artist": "LISA",
+      "has_synced": true,
+      "path": "select/05_FXCK_UP_THE_WORLD_(feat._Future)_LISA.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "FXCK UP THE WORLD (feat. Future)",
+      "artist": "LISA",
+      "has_synced": true,
+      "path": "select/06_FXCK_UP_THE_WORLD_(feat._Future)_LISA.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "FXCK UP THE WORLD",
+      "artist": "LISA feat. Future",
+      "has_synced": true,
+      "path": "select/07_FXCK_UP_THE_WORLD_LISA_feat._Future.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "FXCK UP THE WORLD (Vixi Solo Version)",
+      "artist": "LISA",
+      "has_synced": true,
+      "path": "select/08_FXCK_UP_THE_WORLD_(Vixi_Solo_Version)_LISA.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "FXCK UP THE WORLD (feat․ Future)",
+      "artist": "LISA",
+      "has_synced": true,
+      "path": "select/09_FXCK_UP_THE_WORLD_(feat._Future)_LISA.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "FXCK UP THE WORLD (feat. Future)",
+      "artist": "LISA, Future",
+      "has_synced": true,
+      "path": "select/10_FXCK_UP_THE_WORLD_(feat._Future)_LISA,_Future.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "FXCK UP THE WORLD (Vixi Solo Version)",
+      "artist": "Olivia Rodrigo",
+      "has_synced": true,
+      "path": "select/11_FXCK_UP_THE_WORLD_(Vixi_Solo_Version)_Olivia_Rodrigo.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "FXCK UP THE WORLD (feat. Future)",
+      "artist": "LISA",
+      "has_synced": false,
+      "path": "select/pl_01_FXCK_UP_THE_WORLD_(feat._Future)_LISA.txt"
+    }
+  ]
+}
